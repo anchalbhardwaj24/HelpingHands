@@ -1,0 +1,1 @@
+SELECT SUM(hours) AS totalhours FROM hours;
